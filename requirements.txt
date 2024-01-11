@@ -1,1 +1,3 @@
-Flask
+azure-mgmt-resource
+azure-mgmt-web
+azure-identity
